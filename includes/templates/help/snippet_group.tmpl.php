@@ -1,0 +1,2 @@
+<p><?php _e('Snippet Groups are what allow you to define which snippets may appear at a given position on your site. Without them, you would have to specify an individual snippet to be displayed, without being able to rely on scheduling or geo-location.',$this->domain);?></p>
+<p><?php _e('Place the shortcode for the desired group at the location of the page (or site, using widgets) to display one of the snippets assigned to the group.',$this->domain); ?></p>
